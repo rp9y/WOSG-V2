@@ -20,7 +20,7 @@ banner = f"""{Fore.RED}
 
 menu = f"""{Fore.RED}
 +---OSINT THINGS---+=========+---OTHER THINGS---+
-+  [1] Phone       +=========+  [4] Dox Tuto    +
++  [1] Phone       +=========+  [4] Dc Osint    +
 +  [2] IP          +=========+  [5] Credits     +
 +  [3] E-Mail      +=========+  [6] Exit        +
 +------------------+=========+------------------+
@@ -37,8 +37,6 @@ Databases: There are several databases available that contain IP addresses and D
 
 tool_creds = f"""
 Tool Creator: @rp9y
-
-Server Owner: @w0sg
 
 Discord Server Link: https://discord.gg/m4Jc2Mj9Fy
 
